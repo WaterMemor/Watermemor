@@ -3,6 +3,7 @@
 
 - 🌱 I learn **PHP & 1C Bitrix** and improve my **designe skills**
 - ⚡ I work for a company called <a href="https://ilsn.ru">Illusion</a>
+- 📜 Last year of university. Soon I will feel the freedom
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
