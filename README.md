@@ -1,7 +1,8 @@
-<h1 align="center">Hi, I'm Anastasia</h1>
-<h3 align="center">A passionate frontend developer from Russia</h3>
+<h1 align="center">Hi, I'm Nastia</h1>
+<h3 align="center">A passionate developer from Russia</h3>
 
-- 🌱 I’m currently learning **Javascript & PHP**
+- 🌱 I learn **PHP & 1C Bitrix** and improve my **designe skills**
+- ⚡ I work for a company called <a href="https://ilsn.ru">Illusion</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
