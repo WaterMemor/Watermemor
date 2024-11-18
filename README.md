@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nastia</h1>
+<h1 align="center">Hi, I'm Nastya</h1>
 <h3 align="center">A passionate developer from Russia</h3>
 
 - 🌱 I learn **PHP & 1C Bitrix** and improve my **designe skills**
